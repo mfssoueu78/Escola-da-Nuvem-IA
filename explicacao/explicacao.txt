@@ -1,0 +1,17 @@
+LINGUAGEM DE PROGRAMAÇÃO
+
+PYTHON - CRIAR API'S
+NODEJS
+R
+JAVA
+GOLANG
+PHP
+LUA
+C
+RUBY
+KOTLIN
+
+------------------------------------
+
+BIBLIOTECAS --> PYTHON pip install
+API ESTERNA
